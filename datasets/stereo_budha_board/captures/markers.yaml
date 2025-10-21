@@ -1,0 +1,3 @@
+MARKER_TYPE: "checkerboard"
+PATTERN_SIZE: (10, 7) # (points_per_row, points_per_colum)
+SQUARE_SIZE_MM: 24.2 # square side size in millimeters

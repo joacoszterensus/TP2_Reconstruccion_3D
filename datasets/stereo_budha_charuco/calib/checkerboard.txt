@@ -1,0 +1,3 @@
+# Checkerboard pattern (number of inner corners per a chessboard row and column): 
+checkerboard = (10, 7) # (points_per_row, points_per_colum)
+square_size_mm = 24.2 # square side size in millimeters

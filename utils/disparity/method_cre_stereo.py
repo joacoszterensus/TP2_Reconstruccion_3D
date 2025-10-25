@@ -1,14 +1,10 @@
 from pathlib import Path
 import time
 from dataclasses import dataclass
-
 import cv2
 import numpy as np
 import onnxruntime
-
 from . import utils
-#from methods import Config, EnumParameter, StereoMethod, InputPair, StereoOutput
-
 from .methods import Config, StereoMethod, InputPair, StereoOutput, EnumParameter
 
 urls = {

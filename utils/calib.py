@@ -215,8 +215,6 @@ def calib_zhang(object_points, world_points):
     return mint
 
 
-
-
 if __name__ == "__main__":
 
     # Defining the dimensions of checkerboard
